@@ -1,1 +1,4 @@
 # Strain_device
+
+razorbill社のCS120の電圧と歪みの関係を測定するためのプログラム。
+電源RP100とLCRメーターをSCPI(Srandard Commands for Programmable Instruments)で制御
